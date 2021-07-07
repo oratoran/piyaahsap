@@ -1,5 +1,6 @@
 <svelte:head>
     <title>Pİya Ahşap Mobilya Dekorasyon</title>
+    <meta name="description" content="Piya Ahşap, 2000 yılında Mustafa Demirci tarafından kuruldu. parkuruyla yurtiçinde ve yurtdışında çeşitli mimar, iç mimar ve tasarım ofisleriyle proje bazlı birçok ahşap dekorasyon işi gerçekleştirdi.">
 </svelte:head>
 <div>
     <img src="piya-ahsap-logo-new.svg" alt="Piya Ahşap Mobilya Dekorasyon">
